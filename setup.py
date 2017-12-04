@@ -27,7 +27,7 @@ setup(
     author_email='garrett@inspiredintelligence.io',
     url='https://github.com/aarongarrett/inspyred',
     packages=[
-        'inspyred',
+        'inspyred','inspyred.ec','inspyred.swarm',
     ],
     package_dir={'inspyred':
                  'inspyred'},
